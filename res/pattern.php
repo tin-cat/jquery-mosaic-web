@@ -8,8 +8,8 @@
 	<link rel="stylesheet" type="text/css" href="res/css/main.css?v=7"/>
 	<meta name="viewport" content="width=device-width,initial-scale=1.0" />
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-	<link rel="stylesheet" type="text/css" href="jquery-mosaic/jquery.mosaic.css?v=7"/>
-	<script type="text/javascript" src="jquery-mosaic/jquery.mosaic.js?v=4"></script>
+	<link rel="stylesheet" type="text/css" href="jquery-mosaic/jquery.mosaic.css?v=8"/>
+	<script type="text/javascript" src="jquery-mosaic/jquery.mosaic.js?v=8"></script>
 	<link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet">
 </head>
 <body>
