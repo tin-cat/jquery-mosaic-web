@@ -1,0 +1,3 @@
+[submodule "jquery-mosaic"]
+	path = jquery-mosaic
+	url = https://github.com/tin-cat/jquery-mosaic.git
